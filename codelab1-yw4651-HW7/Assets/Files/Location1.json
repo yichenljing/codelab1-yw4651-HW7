@@ -3,6 +3,6 @@
     "description": "A reclining chair in a dark room with a visor hanging from the ceiling.\n\nThe visor won't release if you don't eat and drink first.",
     "nLocation": -1,
     "sLocation": 0,
-    "eLocation": -1,
+    "eLocation": 1,
     "wLocation": -1
 }

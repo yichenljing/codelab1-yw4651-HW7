@@ -1,0 +1,8 @@
+﻿{
+    "title": "NUTRIENT DISPENSERS",
+    "description": "The wall is fitted with a food dispenser and a hydration unit.\nThe TRASH DISPOSAL is to the WEST.",
+    "nLocation": 0,
+    "sLocation": -1,
+    "eLocation": 1,
+    "wLocation": 4
+}
