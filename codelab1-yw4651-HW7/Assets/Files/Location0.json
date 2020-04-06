@@ -1,0 +1,8 @@
+﻿{
+    "title": "The Dark Metal Room",
+    "description": "A room of dark metal. Fluorescent lights embedded in the ceiling.\n\nNORTH of you is the ACTIVITY ROOM.\nSOUTH leads to NUTRIENT DISPENSERS.\nTo the WEST is the LAVATORY.\nTo the EAST is the SANITY ROOM.",
+    "nLocation": 1,
+    "sLocation": 3,
+    "eLocation": -1,
+    "wLocation": 2
+}
